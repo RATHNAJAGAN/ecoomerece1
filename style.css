@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; }
+.products { display: flex; flex-wrap: wrap; }
+.product { border: 1px solid #ccc; margin: 8px; padding: 8px; }
